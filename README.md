@@ -1,16 +1,17 @@
-# weather
+# weather based mobile app
 
-A new Flutter project.
+A new Flutter project with dart programmingg language
 
-## Getting Started
+
+
+# Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+If you face any problem with this project or repositories just contact with me on 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- facebook: www.facebook.com/munemuddin.engineer
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- instagram: www.instagram.com/munemsarker
+
+
